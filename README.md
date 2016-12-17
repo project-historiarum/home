@@ -1,3 +1,4 @@
+![logo](initial-logo.png)
 # Project Historiarum
 
 Project Historiarum is an endeavor to bring historical pedagogy out from the 18th century, into the 21st. The intent is to create
