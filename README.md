@@ -28,6 +28,10 @@ Timelines will be constructed using [TimelineJS3](https://github.com/NUKnightLab
 
 From here, the next step would be to write a fair bit of code that can tie up all these pieces together for a more coherent narrative. This goal is a bit far off, and would take a few months to conceptualize and build. In all probability, Python would be the main language used, to build servers that would analyze datasets, and bring all the afore-mentioned tools together. And maybe some Javascript.
 
+## Is there a timeline for this?
 
+Haha. Not yet, but there is a definite need for creating a timeline and a content calendar. That should be up real soon.
 
+## Can I contribute?
 
+Yes, please! If history and its itnersection with tech excites you, please do ping me: rudraksh.mk@gmail.com.
