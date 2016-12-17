@@ -34,4 +34,4 @@ Haha. Not yet, but there is a definite need for creating a timeline and a conten
 
 ## Can I contribute?
 
-Yes, please! If history and its itnersection with tech excites you, please do ping me: rudraksh.mk@gmail.com.
+Yes, please! If history and its intersection with tech excites you, please do ping me: rudraksh.mk@gmail.com.
