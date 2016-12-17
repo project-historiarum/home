@@ -19,6 +19,14 @@ At this point, Historiarum will be all about creating long-form writeups around 
 
 As can be inferred, Historiarum's an evolving experiment. Maybe at some point, standalone timelines and visualizations make a lot of sense. Maybe at some point, something else seems like **the thing** to work with. And that's the beauty of it - discovering what kind of tool enables scholarly history consumption with minimal barriers.
 
+## What tech will be used?
+
+This site is built using [docute](https://docute.js.org/), which was originaly intended for building quick documentation sites without builds. All the content here is written in Github-style Markdown, with a couple of extensions.
+
+Timelines will be constructed using [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3), which was built by the amazing folks at Northwestern University's [Knight Lab](https://knightlab.northwestern.edu/). Another tool that would be used heavily is the [OWID Grapher](https://github.com/OurWorldInData/owid-grapher), from [Our World In Data](https://ourworldindata.org/). In all fairness, this initial push behind Historiarum wouldn't be possible, if it weren't for these brilliant open source projects to back it all up.
+
+From here, the next step would be to write a fair bit of code that can tie up all these pieces together for a more coherent narrative. This goal is a bit far off, and would take a few months to conceptualize and build. In all probability, Python would be the main language used, to build servers that would analyze datasets, and bring all the afore-mentioned tools together. And maybe some Javascript.
+
 
 
 
