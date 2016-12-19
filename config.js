@@ -1,3 +1,4 @@
 self.$config = {
-  title: 'Project Historiarum'
+  title: 'Project Historiarum',
+  sidebar: false
 }
