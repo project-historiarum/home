@@ -30,7 +30,27 @@ From here, the next step would be to write a fair bit of code that can tie up al
 
 ## Is there a timeline for this?
 
-Haha. Not yet, but there is a definite need for creating a timeline and a content calendar. That should be up real soon.
+There's two roadmaps at play here: content and tech. These roadmaps don't have dates/deadlines attached to them, simply because it makes more sense to see what kind of effort goes into producing this kind of content and the technology to power it, before coming up with more concrete timelines.
+
+### Content Roadmap
+
+| Title  	|   Status	|
+|---	|---	|
+|  Germany after WWII - 1945 - 1955	|   Research	|
+|   The Berlin Blockade & Airlift - 1948 - 1949	|   Research	|
+|   The Berlin Wall - 1961 - 1989   |   Proposed    |
+|   The Soviet invasion of Hungary - 1956	|   Proposed	|
+|   The Prague Spring and subsequent Soviet invasion - 1967-1968 |   Proposed   |
+|   Soviet Russia & Afghanistan - 1975 - 1989   |   Proposed   |
+|   The collapse of the Soviet bloc - 1980 - 1991   |   Proposed   |
+
+As can be gleaned from the plan above, the roadmap currently focuses on Cold War history. This is bound to change in the future, and if you have ideas to contribute, please do!
+
+---
+
+### Tech Roadmap
+
+The tech roadmap is pretty simple. Since the current focus is on producing the right kind of content, tech is going to involve making use of whatever's open source, and suits the purpose. Gradually, a more custom platform will emerge, with anyone being able to contribute to it.
 
 ## Can I contribute?
 
