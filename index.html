@@ -12,6 +12,18 @@
   <div id="app"></div>
   <script src="./config.js"></script>
   <script src="https://unpkg.com/docute@latest/dist/docute.js"></script>
+  <!-- Google Analytics -->
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-89213003-1', 'auto');
+  ga('send', 'pageview');
+  docute.router.afterEach(function (to) {
+    ga('set', 'page', to.fullPath);
+    ga('send', 'pageview');
+  });
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  <!-- End Google Analytics -->
   <!-- livereload script placeholder -->
   <!-- don't remove this part end -->
 </body>
